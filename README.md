@@ -5,8 +5,8 @@ Game Developer
 
 As I am a fresher, I don't have work experience or practical knowledge but I
 have theoretical knowledge in my field.
-Also, I have all the skills which your company is looking for in this position.I am looking for company where i can 
-Explore my knowledge and implement my skills.
+Also, I have all the skills which your company is looking for in this position. I am looking for company where I can 
+explore my knowledge and implement my skills.
 I will definitely work hard in all the ways possible to achieve the goals and objectives of the
 company.
 
