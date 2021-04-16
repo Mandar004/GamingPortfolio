@@ -12,8 +12,8 @@ I will definitely work hard in all the ways possible to achieve the goals and ob
 company.
 
 
-From:
-Mandar Kaware,
+From:   
+Mandar Kaware,       
 Game Developer.
 
 Plot No.13 Kaware colony, Budhwar naka, 
