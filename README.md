@@ -1,7 +1,6 @@
 # GamingPortfolio
 
-Mandar Kaware
-
+Mandar Kaware         
 Game Developer
 
 As I am a fresher, I don't have work experience or practical knowledge but I
@@ -14,9 +13,8 @@ company.
 
 From:   
 Mandar Kaware,       
-Game Developer.
-
-Plot No.13 Kaware colony, Budhwar naka, 
-Satara 415002.
-+917030170707.
+Game Developer.      
+Plot No.13 Kaware colony, Budhwar naka,     
+Satara 415002.      
++917030170707.      
 mandar.kaware.3@gmail.com
