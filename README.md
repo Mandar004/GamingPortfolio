@@ -1,8 +1,8 @@
 # GamingPortfolio
 
 Mandar Kaware
-Game Developer
 
+Game Developer
 
 As I am a fresher, I don't have work experience or practical knowledge but I
 have theoretical knowledge in my field.
