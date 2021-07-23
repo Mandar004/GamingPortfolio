@@ -3,7 +3,7 @@
 Mandar Kaware         
 Game Developer
 
-As I am a fresher, I don't have work experience or practical knowledge but I
+I'm currently working as Game Developer in MT Software Solution Since June 2021 .I
 have theoretical knowledge in my field.
 Also, I have all the skills which your company is looking for in this position. I am looking for company where I can 
 explore my knowledge and implement my skills.
