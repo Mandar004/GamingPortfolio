@@ -3,7 +3,7 @@
 Mandar Kaware         
 Game Developer
 
-I'm currently working as a Game Developer at MT Software Solution Since June 2021. I
+I'm working as a Game Developer at MT Software Solution since June 2021. I
 have theoretical knowledge in my field.
 Also, I have all the skills which your company is looking for in this position. I am looking for a company where I can
 explore my knowledge and implement my skills.
