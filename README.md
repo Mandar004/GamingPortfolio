@@ -1,14 +1,13 @@
 # GamingPortfolio
 
 Mandar Kaware         
-Game Developer
+Unity Game Developer
 
-I'm working as a Game Developer at MT Software Solution since June 2021. I
-have theoretical knowledge in my field.
-Also, I have all the skills which your company is looking for in this position. I am looking for a company where I can
-explore my knowledge and implement my skills.
-I will definitely work hard in all the ways possible to achieve the goals and objectives of the
-company.
+Currently working as an Associate Unity Developer at Inawwgment India Pvt Ltd since February 2022, I have been fortunate to develop a deep understanding of game development processes and best practices. I've been extensively involved in 3D,2D as well as AR & VR Projects which have allowed me to hone my technical skills and problem-solving abilities. My experience at Inawwgment India has helped me become well-versed in Unity3d, XD, Visual Studio and Blender.
+
+My journey in the field of game development began at MT Software Solution in June 2021, where I gained theoretical knowledge that laid the foundation for my practical skills. I consistently contributed to projects involving Junior Game developers which required strong teamwork, effective communication, and attention to detail.
+
+Thank you for reading my application. I am excited about the opportunity to potentially contribute to your company and further develop my skills in an environment that encourages growth.
 
 
 From:   
